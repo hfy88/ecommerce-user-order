@@ -1,0 +1,8 @@
+{
+  "source": "ecommerce.user / ecommerce.orders（DBeaver localhost）",
+  "target_db": "ecommerce_clean",
+  "user_rows": 98673,
+  "orders_rows": 75702,
+  "gmv": 117152475.7700022,
+  "closed_orders": 68116
+}
